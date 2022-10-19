@@ -28,5 +28,4 @@ print(tuVung.prefix(soKyTuDau))
 
 var chuoi : String
 
-var xxx : [Int] = [Int].init(repeating: 1, count: kyTuConLai)
-print(xxx.replaceOccurrences(of: 1, with: 2, options: 1, range: 1))
+print("hello MasterPhi mới")
